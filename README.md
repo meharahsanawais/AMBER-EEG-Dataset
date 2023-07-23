@@ -2,7 +2,7 @@
 
 AMBER: Advancing Multimodal Brain-Computer Interfaces for Enhanced Robustness -A Dataset for Naturalistic Settings
 
-# You can access the AMBER dataset at the following repository [link to the repository].
+# You can access the AMBER dataset at the following repository [https://drive.google.com/drive/folders/1wi0v9VrMQcf9PeutLh7j9R-rv710qfXp?usp=sharing].
 
 AMBER stands for Advancing Multimodal Brain-Computer Interfaces for Enhanced Robustness, and it is an open-source dataset designed to facilitate research in naturalistic settings. This dataset provides a valuable resource for researchers aiming to develop signal-denoising techniques for Electroencephalography (EEG) measurements, leveraging contextual signal sources.
 
